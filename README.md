@@ -54,7 +54,7 @@ The project was built in three stages, each one reusing what the previous one ha
 
 ## Access and contact
 
-Access to the source code depends on the host company's authorization and cannot be granted from this repository. 
+Access to the source code depends on the host company's authorization and cannot be granted from this repository. You can find a more details about this project in the internship report pdf 'Intership Report.pdf'
 
 ## Author
 
